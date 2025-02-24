@@ -1,0 +1,58 @@
+2025-02-23 23:09:00,700 - INFO - Use pytorch device_name: cpu
+2025-02-23 23:09:00,700 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-23 23:09:37,677 - INFO - AFC is enabled with max remote calls: 10.
+2025-02-23 23:09:46,968 - INFO - AFC remote call 1 is done.
+2025-02-23 23:09:46,968 - WARNING - Resposta não contém todas as seções necessárias
+2025-02-23 23:09:46,968 - WARNING - Tentativa 1 falhou na validação
+2025-02-23 23:09:46,968 - INFO - AFC is enabled with max remote calls: 10.
+2025-02-23 23:09:55,691 - INFO - AFC remote call 1 is done.
+2025-02-23 23:09:55,691 - WARNING - Resposta não contém todas as seções necessárias
+2025-02-23 23:09:55,691 - WARNING - Tentativa 2 falhou na validação
+2025-02-23 23:09:55,692 - INFO - AFC is enabled with max remote calls: 10.
+2025-02-23 23:10:01,846 - INFO - AFC remote call 1 is done.
+2025-02-23 23:10:01,846 - WARNING - Resposta não contém todas as seções necessárias
+2025-02-23 23:10:01,846 - WARNING - Tentativa 3 falhou na validação
+2025-02-23 23:10:24,628 - INFO - AFC is enabled with max remote calls: 10.
+2025-02-23 23:10:32,836 - INFO - AFC remote call 1 is done.
+2025-02-23 23:10:32,836 - WARNING - Resposta não contém todas as seções necessárias
+2025-02-23 23:10:32,836 - WARNING - Tentativa 1 falhou na validação
+2025-02-23 23:10:32,836 - INFO - AFC is enabled with max remote calls: 10.
+2025-02-23 23:10:41,064 - INFO - AFC remote call 1 is done.
+2025-02-23 23:10:41,064 - WARNING - Resposta não contém todas as seções necessárias
+2025-02-23 23:10:41,064 - WARNING - Tentativa 2 falhou na validação
+2025-02-23 23:10:41,064 - INFO - AFC is enabled with max remote calls: 10.
+2025-02-23 23:10:47,497 - INFO - AFC remote call 1 is done.
+2025-02-23 23:10:47,497 - WARNING - Resposta não contém todas as seções necessárias
+2025-02-23 23:10:47,497 - WARNING - Tentativa 3 falhou na validação
+2025-02-23 23:11:36,937 - INFO - AFC is enabled with max remote calls: 10.
+2025-02-23 23:11:44,720 - INFO - AFC remote call 1 is done.
+2025-02-23 23:11:44,720 - WARNING - Resposta não contém todas as seções necessárias
+2025-02-23 23:11:44,720 - WARNING - Tentativa 1 falhou na validação
+2025-02-23 23:11:44,720 - INFO - AFC is enabled with max remote calls: 10.
+2025-02-23 23:11:56,256 - INFO - AFC remote call 1 is done.
+2025-02-23 23:11:56,256 - WARNING - Resposta não contém todas as seções necessárias
+2025-02-23 23:11:56,256 - WARNING - Tentativa 2 falhou na validação
+2025-02-23 23:11:56,256 - INFO - AFC is enabled with max remote calls: 10.
+2025-02-23 23:12:02,501 - INFO - AFC remote call 1 is done.
+2025-02-23 23:12:02,501 - WARNING - Resposta não contém todas as seções necessárias
+2025-02-23 23:12:02,501 - WARNING - Tentativa 3 falhou na validação
+2025-02-23 23:17:22,252 - INFO - Use pytorch device_name: cpu
+2025-02-23 23:17:22,252 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-23 23:17:30,219 - ERROR - Erro ao gerar resposta: Models.generate_content() got an unexpected keyword argument 'generation_config'
+2025-02-23 23:17:30,219 - ERROR - Erro no endpoint /chat: unhashable type: 'list'
+2025-02-23 23:20:31,618 - INFO - Use pytorch device_name: cpu
+2025-02-23 23:20:31,618 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-23 23:21:19,527 - INFO - Use pytorch device_name: cpu
+2025-02-23 23:21:19,528 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-23 23:21:34,333 - INFO - Use pytorch device_name: cpu
+2025-02-23 23:21:34,334 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-23 23:21:47,030 - INFO - Use pytorch device_name: cpu
+2025-02-23 23:21:47,031 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-23 23:22:40,952 - INFO - Use pytorch device_name: cpu
+2025-02-23 23:22:40,952 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-23 23:22:49,329 - ERROR - Erro ao gerar resposta: Models.generate_content() got an unexpected keyword argument 'generation_config'
+2025-02-23 23:24:02,055 - ERROR - Erro ao gerar resposta: Models.generate_content() got an unexpected keyword argument 'generation_config'
+2025-02-23 23:24:06,108 - ERROR - Erro ao gerar resposta: Models.generate_content() got an unexpected keyword argument 'generation_config'
+2025-02-23 23:24:10,960 - ERROR - Erro ao gerar resposta: Models.generate_content() got an unexpected keyword argument 'generation_config'
+2025-02-23 23:25:26,041 - INFO - Use pytorch device_name: cpu
+2025-02-23 23:25:26,041 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
